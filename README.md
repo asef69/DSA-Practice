@@ -14,7 +14,7 @@ I use this repo to track my progress, improve problem-solving skills, and mainta
 
 ## 👤 Profiles
 - 🔗 [Codeforces (kabir70)](https://codeforces.com/profile/kabir70)  
-- 🔗 [LeetCode (asef69)](https://leetcode.com/u/asef69/)
+- 🔗 [LeetCode (asef69)](https://leetcode.com/u/asefkabir97/)
 
 ---
 
@@ -44,4 +44,4 @@ However, if you find an issue or want to suggest improvements, feel free to open
 
 ---
 
-> 📝 *Maintained by [kabir70](https://codeforces.com/profile/kabir70) | [asef69](https://leetcode.com/u/asef69/).*
+> 📝 *Maintained by [kabir70](https://codeforces.com/profile/kabir70) | [asef69](https://leetcode.com/u/asefkabir97/).*
